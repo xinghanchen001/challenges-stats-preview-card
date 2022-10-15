@@ -72,6 +72,9 @@ h1{
 }
 
 @media only screen and (max-width: 900px){
+    section{
+        height: 140vh;
+    }
     h1{
         font-size: 1.8rem;
         font-weight: 700;
